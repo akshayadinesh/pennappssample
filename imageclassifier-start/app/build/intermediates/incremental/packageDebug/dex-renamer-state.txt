@@ -1,0 +1,7 @@
+#Sat Sep 09 19:07:30 EDT 2017
+base.0=/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09d759b5e18293622b2d9c4f7da79062d5768927
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11e3397069635c9d88cb0918587ed022923d688f/classes.dex
+base.1=/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11e3397069635c9d88cb0918587ed022923d688f
+file.0=/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09d759b5e18293622b2d9c4f7da79062d5768927/classes.dex

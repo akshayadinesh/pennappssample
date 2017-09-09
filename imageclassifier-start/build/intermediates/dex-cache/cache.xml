@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/0e09c5191f08eca2791d1467582e93ba7cb18ee0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27e5f9cdd9d01d25b734489da1c282b6db7f3f03">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a5e004b6d7bd67286114a5b9c2bc5680b5b7100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/b0372d357b44684676db7919d9ac510ab67b8274/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d305af7f53e275d1a14f694cf3fa7ffeaba19c8">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38ef5ebe92170ddaf4bf67ebe4c58941c9910b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/f2d6d3e89e3f5b6367112c94cc9e5aed6e488709/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="300b0ddf40d3342867964845fae5743492b204eb">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ccbd2e68795e197e2294b6625d4baa39da5bd08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/ab3a3f5467567c05da05cc19330b8ce04ee7b533/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90c5a1fedb9c976946e3cfcc0a9ccf67c3180cc1">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b07195f1777060f4e486efe9084cae09c1e768bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_09d759b5e18293622b2d9c4f7da79062d5768927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/207ba1a7b4910ff1f10230680618b954e9b25123/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d492eca8553b7c6945b4de4ce6266fce99c1168a">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c3c6b84a29e0f17e6a66aacde2754db4f0843872/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/4c3c59416c863f64c99cf7d76e7e0c6e44e91361/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e837b2a90564e2b6037f7df1eebd0454236c8e04">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22c0c112e5fb8b80b80d525f0e50e255adf5a148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d30a456128fb32bb96b6ab911b635f6ec6e280d">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11e3397069635c9d88cb0918587ed022923d688f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/akshayadinesh/.android/build-cache/60afe3b7fe72393db40179bbf005c569f116c8e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="547326950573bb73d6064506e003a201045b2bd7">
+        <dex dex="/Users/akshayadinesh/Downloads/androidthings-imageclassifier-master 2/imageclassifier-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b823ccbc69a74a7461bfd9c2ae695dd12d88340/classes.dex" />
+    </item>
+
+</items>

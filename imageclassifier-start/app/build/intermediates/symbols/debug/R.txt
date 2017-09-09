@@ -1,0 +1,1 @@
+int drawable sampledog_224x224 0x7f020000
